@@ -1,0 +1,35 @@
+personajes={
+    "Raza":{
+        "Humanos":{
+            "Clase":{
+                "Guerrero":{
+                    "Vida":1300,
+                    "Poder":300  
+                },
+                "Mago":{
+                    "Vida":1000,
+                    "Poder":450
+                },
+                "Arquero":{
+                   "Vida":1200,
+                    "Poder":250 
+                }
+        }},
+        "Orcos":{
+            "Clase":{
+                "Luchador":{
+                    "Vida":1300,
+                    "Poder":300 
+                },
+                "Chaman":{
+                    "Vida":1100,
+                    "Poder":400 
+                },
+                "Jinete":{
+                    "Vida":1150,
+                    "Poder":270 
+                }
+            }
+        }
+    }
+}
